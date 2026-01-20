@@ -1,10 +1,5 @@
 # 🌞 Farmonergy: Smart Solar Farm Management System ⚡
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)  
-[![Status](https://img.shields.io/badge/Status-Completed-brightgreen)]  
-[![Methodology](https://img.shields.io/badge/Method-FDD-blue)]  
-
----
 
 ## Project Links 🔗
 
