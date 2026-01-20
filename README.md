@@ -1,4 +1,4 @@
-# 🌞 Farmonergy: Smart Solar Farm Management System ⚡
+# 🌞 Farmonergy: A Centralized Digital Solution for Farm Solar Energy Production and Grid Integration  ⚡
 
 
 ## Project Links 🔗
